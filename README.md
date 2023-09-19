@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on Data Science Based Projects
 - 📫 How to reach me: shravanimjagtap13@gmail.com
 - 📝 I regularly write on Geeks for geeks my profile is- https://auth.geeksforgeeks.org/user/shravanimjagtap13/articles
-- 🌐 My portfolio link- https://shravani-portfolio.onrender.com/ 
+- 🌐 My portfolio link- https://shravani-portfolio-chatbot.onrender.com
